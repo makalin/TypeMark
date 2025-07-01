@@ -1,0 +1,24 @@
+/* Futuristic Neon Theme */
+body {
+    font-family: 'Orbitron', sans-serif;
+    background: #18182a;
+    color: #39ff14;
+}
+.handwritten-note {
+    font-family: 'Indie Flower', cursive, sans-serif;
+    font-size: 1.1em;
+    color: #39ff14;
+    background: #22223b;
+    border-left: 3px solid #39ff14;
+    margin-left: 2em;
+    padding: 0.5em 1em;
+    display: block;
+    width: 60%;
+    box-shadow: 2px 2px 6px #22223b;
+}
+.margin-doodle {
+    float: left;
+    width: 40px;
+    margin: 0 1em 1em 0;
+    opacity: 0.7;
+} 

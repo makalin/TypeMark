@@ -1,0 +1,24 @@
+/* Minimalist Clean Theme */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background: #fff;
+    color: #222;
+}
+.handwritten-note {
+    font-family: 'Shadows Into Light', cursive, sans-serif;
+    font-size: 1.1em;
+    color: #444;
+    background: #f5f5f5;
+    border-left: 3px solid #bbb;
+    margin-left: 2em;
+    padding: 0.5em 1em;
+    display: block;
+    width: 60%;
+    box-shadow: 2px 2px 6px #eee;
+}
+.margin-doodle {
+    float: left;
+    width: 40px;
+    margin: 0 1em 1em 0;
+    opacity: 0.7;
+} 

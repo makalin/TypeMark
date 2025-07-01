@@ -1,0 +1,9 @@
+pandocfilters
+weasyprint
+PyPDF2
+reportlab
+# Optional for web UI
+flask
+# For advanced features
+pillow
+jinja2 
